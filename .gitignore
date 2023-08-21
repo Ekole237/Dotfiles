@@ -1,0 +1,4 @@
+neovim/lua/Ekodev/undodir/*
+neovim/pack/*
+oh-my-zsh/.oh-my-zsh
+tumx/.tmux/plugins/
