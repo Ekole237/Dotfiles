@@ -1,0 +1,5 @@
+[user]
+    email = ekoledev@gmail.com
+    name = Ekodev
+[core]
+    editor = nvim
